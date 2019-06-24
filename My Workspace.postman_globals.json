@@ -1,0 +1,74 @@
+{
+	"id": "642ef1b1-4846-4170-8679-71b724374290",
+	"values": [
+		{
+			"key": "trellokey",
+			"value": "c89513d088bdb48ebe07d6156a0500f2",
+			"enabled": false
+		},
+		{
+			"key": "echo_digest_nonce",
+			"value": "b0HW0FnbFiXri0lpO4KLeI3J1qqgBPcp",
+			"enabled": true
+		},
+		{
+			"key": "echo_digest_realm",
+			"value": "Users",
+			"enabled": true
+		},
+		{
+			"key": "uuid",
+			"value": "0c2a4a3a-8d1b-494d-ad79-83deb40d46f2",
+			"enabled": true
+		},
+		{
+			"key": "trelloKey",
+			"value": "c89513d088bdb48ebe07d6156a0500f2",
+			"enabled": true
+		},
+		{
+			"key": "trelloToken",
+			"value": "90529bd866c3ada02940775d205a09b492a177365f3d6ac3752bb14adc1a9cb1",
+			"enabled": true
+		},
+		{
+			"key": "boardID",
+			"value": "5d025af63261bc68fba6f5a1",
+			"enabled": true
+		},
+		{
+			"key": "newName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "5d0b93cc2a509d6a86e209c7",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "CGI POST Board",
+			"enabled": true
+		},
+		{
+			"key": "id1",
+			"value": "5d028613da4279598ddce786",
+			"enabled": true
+		},
+		{
+			"key": "trellokey1",
+			"value": "c89513d088bdb48ebe07d6156a0500f2",
+			"enabled": true
+		},
+		{
+			"key": "trellotoken1",
+			"value": "90529bd866c3ada02940775d205a09b492a177365f3d6ac3752bb14adc1a9cb1",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2019-06-24T13:37:58.498Z",
+	"_postman_exported_using": "Postman/7.2.2"
+}
